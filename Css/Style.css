@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(114, 13, 106);
+    font-family: 'Franklin Gothic Medium';
+    
+   
+}
+
+.Header{
+    background-color: rgb(212, 85, 195);
+    width: 80%;
+    margin: 10px auto 0 auto;
+    border-radius: 3px;
+    height: fit-content;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.Validation{
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 5px;
+    width: 80%;
+    height: 100px;
+    margin: 50px auto 10px auto;
+    font-size: 12px;
+}
+
+#Email_V{
+    margin: 44px 0 44px 0;
+}
+
+form{
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 5px;
+
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+#input{
+   
+    
+}
+Label {
+    font-size:12px ;
+}
